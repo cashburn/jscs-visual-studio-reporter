@@ -1,0 +1,30 @@
+{
+  "name": "jscs-visual-studio-reporter",
+  "version": "1.0.0",
+  "description": "JSCS Visual Studio 2015 reporter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cashburn/jscs-visual-studio-reporter.git"
+  },
+  "keywords": [
+    "visual",
+    "studio",
+    "jscs",
+    "reporter",
+    "gulp",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Colin Ashburn",
+    "email": "cashburn26@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cashburn/jscs-visual-studio-reporter/issues"
+  },
+  "homepage": "https://github.com/cashburn/jscs-visual-studio-reporter",
+  "devDependencies": {
+    "jscs": "^3.0.7"
+  }
+}
